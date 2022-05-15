@@ -1,0 +1,89 @@
+root: 
+
+https://project-comsol.herokuapp.com
+
+All Users:
+https://project-comsol.herokuapp.com/api/user
+
+Create User
+https://project-comsol.herokuapp.com/api/user/created
+
+Update User
+https://project-comsol.herokuapp.com/api/user/signin
+
+Get Single User
+https://project-comsol.herokuapp.com/api/user/:id
+
+Delete Single User
+https://project-comsol.herokuapp.com/api/user/:id
+
+create Brand
+https://project-comsol.herokuapp.com/api/brand/:id/create
+
+view Brand
+https://project-comsol.herokuapp.com/api/brand/:id/view
+
+update Brand
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+delete Brand
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+
+create Pitch
+https://project-comsol.herokuapp.com/api/brand/:id/create
+
+view Pitch
+https://project-comsol.herokuapp.com/api/brand/:id/view
+
+update Pitch
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+delete Pitch
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+
+
+create Event
+https://project-comsol.herokuapp.com/api/event/:id/create
+
+view Event
+https://project-comsol.herokuapp.com/api/brand/:id/view
+
+update Event
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+delete Event
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+
+
+create Video
+https://project-comsol.herokuapp.com/api/brand/:id/create
+
+view Video
+https://project-comsol.herokuapp.com/api/brand/:id/view
+
+update Video
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+delete Video
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+
+
+create Jorney
+https://project-comsol.herokuapp.com/api/brand/:id/create
+
+view Jorney
+https://project-comsol.herokuapp.com/api/brand/:id/view
+
+update Jorney
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+delete Jorney
+https://project-comsol.herokuapp.com/api/brand/:id/update/:updateID
+
+
+CodeLab@Class@2022@BestStudents
+
